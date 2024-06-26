@@ -1,0 +1,19 @@
+{
+    "name": "acf/simple-centered",
+    "title": "Simple Centered CTA",
+    "description": "A simple centered CTA Section",
+    "style": [
+        "file:./simple-centered.css"
+    ],
+    "icon": "megaphone",
+    "keywords": [
+        "cta",
+        "simple",
+        "centered"
+    ],
+    "acf": {
+        "mode": "edit",
+        "renderTemplate": "simple-centered.php"
+    },
+    "align": "full"
+}

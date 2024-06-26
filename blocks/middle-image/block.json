@@ -1,0 +1,20 @@
+{
+    "name": "acf/middle-image",
+    "title": "Middle Image Section",
+    "description": "A section with a middle image",
+    "style": [
+        "file:./middle-image.css"
+    ],
+    "icon": "format-image",
+    "keywords": [
+        "photo",
+        "middle",
+        "home",
+        "image"
+    ],
+    "acf": {
+        "mode": "edit",
+        "renderTemplate": "middle-image.php"
+    },
+    "align": "full"
+}

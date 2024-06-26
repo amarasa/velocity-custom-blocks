@@ -1,0 +1,19 @@
+{
+    "name": "acf/infographics",
+    "title": "Infographics Section",
+    "description": "A section containing infographics",
+    "style": [
+        "file:./infographics.css"
+    ],
+    "icon": "welcome-view-site",
+    "keywords": [
+        "infographics",
+        "image",
+        "photo"
+    ],
+    "acf": {
+        "mode": "edit",
+        "renderTemplate": "infographics.php"
+    },
+    "align": "full"
+}

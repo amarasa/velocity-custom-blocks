@@ -1,0 +1,19 @@
+{
+    "name": "acf/split-with-image",
+    "title": "Split with Image",
+    "description": "A CTA split section with Image",
+    "style": [
+        "file:./split-with-image.css"
+    ],
+    "icon": "megaphone",
+    "keywords": [
+        "cta",
+        "split",
+        "image"
+    ],
+    "acf": {
+        "mode": "edit",
+        "renderTemplate": "split-with-image.php"
+    },
+    "align": "full"
+}

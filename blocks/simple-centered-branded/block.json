@@ -1,0 +1,21 @@
+{
+    "name": "acf/simple-centered-branded",
+    "title": "Simple Centered Branded with Dark Background",
+    "description": "Simple Centered Branded CTA with Dark Background",
+    "style": [
+        "file:./simple-centered-branded.css"
+    ],
+    "icon": "megaphone",
+    "keywords": [
+        "cta",
+        "brand",
+        "dark",
+        "background",
+        "simple"
+    ],
+    "acf": {
+        "mode": "edit",
+        "renderTemplate": "simple-centered-branded.php"
+    },
+    "align": "full"
+}

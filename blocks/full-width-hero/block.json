@@ -1,0 +1,19 @@
+{
+    "name": "acf/full-width-hero",
+    "title": "Full Width Hero Section",
+    "description": "A full width hero section",
+    "style": [
+        "file:./full-width-hero.css"
+    ],
+    "icon": "superhero-alt",
+    "keywords": [
+        "home",
+        "full width",
+        "hero"
+    ],
+    "acf": {
+        "mode": "edit",
+        "renderTemplate": "full-width-hero.php"
+    },
+    "align": "full"
+}

@@ -1,0 +1,15 @@
+.team-grid .alm-reveal {
+	display: grid;
+	grid-template-columns: repeat(12, minmax(0, 1fr));
+	-moz-column-gap: 1.5rem;
+	column-gap: 1.5rem;
+}
+.team-grid .lo-image-container {
+	padding-bottom: 0 !important;
+}
+.about-meet-the-team .alm-btn-wrap .button {
+	margin: auto;
+}
+.about-meet-the-team .alm-load-more-btn.done {
+	display: none !important;
+}

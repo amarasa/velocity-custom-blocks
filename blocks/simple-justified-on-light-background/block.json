@@ -1,0 +1,21 @@
+{
+    "name": "acf/simple-justified-on-light-background",
+    "title": "Simple Justified on Light Background",
+    "description": "A simple justified CTA on light background",
+    "style": [
+        "file:./simple-justified-on-light-background.css"
+    ],
+    "icon": "megaphone",
+    "keywords": [
+        "cta",
+        "simple",
+        "justified",
+        "light",
+        "background"
+    ],
+    "acf": {
+        "mode": "edit",
+        "renderTemplate": "simple-justified-on-light-background.php"
+    },
+    "align": "full"
+}

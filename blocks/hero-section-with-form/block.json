@@ -1,0 +1,18 @@
+{
+    "name": "acf/hero-section-with-form",
+    "title": "Hero Section with Form",
+    "description": "A hero section with form",
+    "style": [
+        "file:./hero-section-with-form.css"
+    ],
+    "icon": "superhero-alt",
+    "keywords": [
+        "hero",
+        "form"
+    ],
+    "acf": {
+        "mode": "edit",
+        "renderTemplate": "hero-section-with-form.php"
+    },
+    "align": "full"
+}

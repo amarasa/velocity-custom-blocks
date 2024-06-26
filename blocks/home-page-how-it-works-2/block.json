@@ -1,0 +1,19 @@
+{
+    "name": "acf/home-page-how-it-works-2",
+    "title": "How it Works 2 Section",
+    "description": "An alternate How it Works section",
+    "style": [
+        "file:./home-page-how-it-works-2.css"
+    ],
+    "icon": "admin-generic",
+    "keywords": [
+        "home",
+        "how",
+        "works"
+    ],
+    "acf": {
+        "mode": "edit",
+        "renderTemplate": "home-page-how-it-works-2.php"
+    },
+    "align": "full"
+}

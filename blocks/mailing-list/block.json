@@ -1,0 +1,19 @@
+{
+    "name": "acf/mailing-list",
+    "title": "Mailing List Block",
+    "description": "A mailing list block",
+    "style": [
+        "file:./mailing-list.css"
+    ],
+    "icon": "email",
+    "keywords": [
+        "email",
+        "mailing list",
+        "mailchimp"
+    ],
+    "acf": {
+        "mode": "edit",
+        "renderTemplate": "mailing-list.php"
+    },
+    "align": "full"
+}

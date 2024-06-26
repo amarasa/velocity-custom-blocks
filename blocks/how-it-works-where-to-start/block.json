@@ -1,0 +1,19 @@
+{
+    "name": "acf/how-it-works-where-to-start",
+    "title": "How it Works and Where to Start Sections",
+    "description": "How it works and where to start sections",
+    "style": [
+        "file:./how-it-works-where-to-start.css"
+    ],
+    "icon": "admin-generic",
+    "keywords": [
+        "home",
+        "how it works",
+        "where to start"
+    ],
+    "acf": {
+        "mode": "edit",
+        "renderTemplate": "how-it-works-where-to-start.php"
+    },
+    "align": "full"
+}

@@ -1,0 +1,20 @@
+{
+    "name": "acf/why-us-2",
+    "title": "Why Us 2 Section",
+    "description": "A Why Us Section secondary variant",
+    "style": [
+        "file:./why-us-2.css"
+    ],
+    "icon": "editor-help",
+    "keywords": [
+        "why",
+        "reasons",
+        "home",
+        "learn"
+    ],
+    "acf": {
+        "mode": "edit",
+        "renderTemplate": "why-us-2.php"
+    },
+    "align": "full"
+}

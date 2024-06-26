@@ -1,0 +1,19 @@
+{
+    "name": "acf/lead-magnet",
+    "title": "Lead Magnet CTA Block",
+    "description": "A lead magnet Call to Action Block",
+    "style": [
+        "file:./lead-magnet.css"
+    ],
+    "icon": "megaphone",
+    "keywords": [
+        "lead",
+        "cta",
+        "magnet"
+    ],
+    "acf": {
+        "mode": "edit",
+        "renderTemplate": "lead-magnet.php"
+    },
+    "align": "full"
+}

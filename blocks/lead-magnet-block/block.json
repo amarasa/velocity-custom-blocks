@@ -1,0 +1,19 @@
+{
+    "name": "acf/lead-magnet-block",
+    "title": "Lead Magnet Block",
+    "description": "A lead magnet block CTA",
+    "style": [
+        "file:./lead-magnet-block.css"
+    ],
+    "icon": "star-filled",
+    "keywords": [
+        "lead",
+        "magnet",
+        "CTA"
+    ],
+    "acf": {
+        "mode": "edit",
+        "renderTemplate": "lead-magnet-block.php"
+    },
+    "align": "full"
+}

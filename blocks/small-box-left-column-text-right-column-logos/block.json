@@ -1,0 +1,19 @@
+{
+    "name": "acf/small-box-left-column-text-right-column-logos",
+    "title": "Small Box - Left Column Text - Right Column Logos",
+    "description": "Small box with left column text and right column logos",
+    "style": [
+        "file:./small-box-left-column-text-right-column-logos.css"
+    ],
+    "icon": "media-text",
+    "keywords": [
+        "small box",
+        "left column text",
+        "logos"
+    ],
+    "acf": {
+        "mode": "edit",
+        "renderTemplate": "small-box-left-column-text-right-column-logos.php"
+    },
+    "align": "full"
+}

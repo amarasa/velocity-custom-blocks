@@ -1,0 +1,19 @@
+{
+    "name": "acf/text-cta",
+    "title": "Text CTA Block",
+    "description": "A text CTA Block",
+    "style": [
+        "file:./text-cta.css"
+    ],
+    "icon": "admin-links",
+    "keywords": [
+        "text",
+        "blue link",
+        "link"
+    ],
+    "acf": {
+        "mode": "edit",
+        "renderTemplate": "text-cta.php"
+    },
+    "align": "full"
+}

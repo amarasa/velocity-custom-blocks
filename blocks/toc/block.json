@@ -1,0 +1,20 @@
+{
+    "name": "acf/toc",
+    "title": "Table of Contents",
+    "description": "A table of contents block",
+    "style": [
+        "file:./toc.css"
+    ],
+    "icon": "editor-ul",
+    "keywords": [
+        "toc",
+        "table",
+        "table of contents",
+        "contents"
+    ],
+    "acf": {
+        "mode": "edit",
+        "renderTemplate": "toc.php"
+    },
+    "align": "full"
+}

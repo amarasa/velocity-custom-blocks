@@ -1,0 +1,20 @@
+{
+    "name": "acf/newsletter-subscribe",
+    "title": "Newsletter Subscribe Section",
+    "description": "A newsletter subscribe section",
+    "style": [
+        "file:./newsletter-subscribe.css"
+    ],
+    "icon": "email-alt",
+    "keywords": [
+        "newsletter",
+        "subscribe",
+        "form",
+        "mailing list"
+    ],
+    "acf": {
+        "mode": "edit",
+        "renderTemplate": "newsletter-subscribe.php"
+    },
+    "align": "full"
+}

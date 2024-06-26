@@ -1,0 +1,18 @@
+{
+    "name": "acf/affiliate-cta",
+    "title": "Affiliate CTA",
+    "description": "An affiliate CTA Section",
+    "style": [
+        "file:./affiliate-cta.css"
+    ],
+    "icon": "admin-site",
+    "keywords": [
+        "affiliate",
+        "cta"
+    ],
+    "acf": {
+        "mode": "edit",
+        "renderTemplate": "affiliate-cta.php"
+    },
+    "align": "full"
+}

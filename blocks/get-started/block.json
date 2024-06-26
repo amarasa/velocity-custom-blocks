@@ -1,0 +1,19 @@
+{
+    "name": "acf/get-started",
+    "title": "Get Started Section",
+    "description": "A get started section.",
+    "style": [
+        "file:./get-started.css"
+    ],
+    "icon": "admin-network",
+    "keywords": [
+        "get started",
+        "cta",
+        "home"
+    ],
+    "acf": {
+        "mode": "edit",
+        "renderTemplate": "get-started.php"
+    },
+    "align": "full"
+}

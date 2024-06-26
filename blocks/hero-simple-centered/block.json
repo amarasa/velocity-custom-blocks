@@ -1,0 +1,18 @@
+{
+    "name": "acf/hero-simple-centered",
+    "title": "Simple Centered",
+    "description": "A simple centered hero section",
+    "style": [
+        "file:./hero-simple-centered.css"
+    ],
+    "icon": "superhero",
+    "keywords": [
+        "hero",
+        "simple centered"
+    ],
+    "acf": {
+        "mode": "edit",
+        "renderTemplate": "hero-simple-centered.php"
+    },
+    "align": "full"
+}

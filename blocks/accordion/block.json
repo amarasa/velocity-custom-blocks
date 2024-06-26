@@ -1,0 +1,22 @@
+{
+    "name": "acf/accordion",
+    "title": "FAQ Accordion",
+    "description": "A FAQ Accordion",
+    "style": [
+        "file:./accordion.css"
+    ],
+    "icon": "editor-ul",
+    "keywords": [
+        "faq",
+        "frequently",
+        "asked",
+        "questions",
+        "home",
+        "accordion"
+    ],
+    "acf": {
+        "mode": "edit",
+        "renderTemplate": "accordion.php"
+    },
+    "align": "full"
+}

@@ -1,0 +1,22 @@
+{
+    "name": "acf/contained-video",
+    "title": "Contained Video",
+    "description": "This block creates a video configured to a 921pixel container",
+    "category": "ppf-custom-blocks",
+    "style": [
+        "file:./contained-video.css"
+    ],
+    "icon": "format-image",
+    "keywords": [
+        "video",
+        "youtube"
+    ],
+    "acf": {
+        "mode": "edit",
+        "renderTemplate": "contained-video.php"
+    },
+    "supports": {
+        "anchor": "true"
+    },
+    "align": "full"
+}

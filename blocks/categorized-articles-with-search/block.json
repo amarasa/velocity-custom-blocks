@@ -1,0 +1,20 @@
+{
+    "name": "acf/categorized-articles-with-search",
+    "title": "Categorized Articles with Search",
+    "description": "A categorized articles section with search functionality",
+    "style": [
+        "file:./categorized-articles-with-search.css"
+    ],
+    "icon": "grid-view",
+    "keywords": [
+        "category",
+        "articles",
+        "search",
+        "categorized"
+    ],
+    "acf": {
+        "mode": "edit",
+        "renderTemplate": "categorized-articles-with-search.php"
+    },
+    "align": "full"
+}

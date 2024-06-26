@@ -1,0 +1,20 @@
+{
+    "name": "acf/recent-posts",
+    "title": "Recent Posts Section",
+    "description": "A section displaying the recent posts",
+    "style": [
+        "file:./recent-posts.css"
+    ],
+    "icon": "format-aside",
+    "keywords": [
+        "recent",
+        "posts",
+        "home",
+        "blog"
+    ],
+    "acf": {
+        "mode": "edit",
+        "renderTemplate": "recent-posts.php"
+    },
+    "align": "full"
+}

@@ -1,0 +1,20 @@
+{
+    "name": "acf/left-column-text-right-column-form",
+    "title": "Left Column Text - Right Column Form",
+    "description": "Left Column Text with a Right Column Form Section",
+    "style": [
+        "file:./left-column-text-right-column-form.css"
+    ],
+    "icon": "format-gallery",
+    "keywords": [
+        "left column text",
+        "right column form",
+        "text",
+        "form"
+    ],
+    "acf": {
+        "mode": "edit",
+        "renderTemplate": "left-column-text-right-column-form.php"
+    },
+    "align": "full"
+}

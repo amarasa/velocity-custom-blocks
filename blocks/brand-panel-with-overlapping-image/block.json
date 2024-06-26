@@ -1,0 +1,19 @@
+{
+    "name": "acf/brand-panel-with-overlapping-image",
+    "title": "Brand Panel with Overlapping Image",
+    "description": "A brand panel CTA with overlapping imagery",
+    "style": [
+        "file:./brand-panel-with-overlapping-image.css"
+    ],
+    "icon": "megaphone",
+    "keywords": [
+        "cta",
+        "brand",
+        "panel"
+    ],
+    "acf": {
+        "mode": "edit",
+        "renderTemplate": "brand-panel-with-overlapping-image.php"
+    },
+    "align": "full"
+}

@@ -1,0 +1,16 @@
+{
+	"name": "acf/inner-blocks-container",
+	"title": "Inner Container Block",
+	"description": "An inner container block",
+	"style": ["file:./inner-blocks-container.css"],
+	"icon": "formatting",
+	"keywords": ["inner blocks", "container", "block container"],
+	"acf": {
+		"mode": "preview",
+		"renderTemplate": "inner-blocks-container.php"
+	},
+	"align": "full",
+	"supports": {
+		"jsx": "true"
+	}
+}

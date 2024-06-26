@@ -1,0 +1,22 @@
+{
+    "name": "acf/faq-section",
+    "title": "FAQ Section",
+    "description": "A FAQ Section",
+    "style": [
+        "file:./faq-section.css"
+    ],
+    "icon": "testionial",
+    "keywords": [
+        "faq",
+        "frequently",
+        "asked",
+        "questions",
+        "home",
+        "accordion"
+    ],
+    "acf": {
+        "mode": "edit",
+        "renderTemplate": "faq-section.php"
+    },
+    "align": "full"
+}

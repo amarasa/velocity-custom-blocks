@@ -1,0 +1,20 @@
+{
+    "name": "acf/where-to-start-zip-code",
+    "title": "Where to Start and Zip Code Section",
+    "description": "A where to start with zip code section",
+    "style": [
+        "file:./where-to-start-zip-code.css"
+    ],
+    "icon": "coffee",
+    "keywords": [
+        "zip code",
+        "where",
+        "start",
+        "home"
+    ],
+    "acf": {
+        "mode": "edit",
+        "renderTemplate": "where-to-start-zip-code.php"
+    },
+    "align": "full"
+}

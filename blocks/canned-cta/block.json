@@ -1,0 +1,20 @@
+{
+    "name": "acf/canned-cta",
+    "title": "Canned CTA",
+    "description": "A canned Call-to-Action block",
+    "style": [
+        "file:./canned-cta.css"
+    ],
+    "icon": "megaphone",
+    "keywords": [
+        "cta",
+        "canned",
+        "can",
+        "main cta"
+    ],
+    "acf": {
+        "mode": "edit",
+        "renderTemplate": "canned-cta.php"
+    },
+    "align": "full"
+}

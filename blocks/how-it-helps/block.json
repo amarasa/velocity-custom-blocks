@@ -1,0 +1,19 @@
+{
+    "name": "acf/how-it-helps",
+    "title": "How it Helps Section",
+    "description": "A How it Helps section",
+    "style": [
+        "file:./how-it-helps.css"
+    ],
+    "icon": "admin-users",
+    "keywords": [
+        "helps",
+        "how",
+        "home"
+    ],
+    "acf": {
+        "mode": "edit",
+        "renderTemplate": "how-it-helps.php"
+    },
+    "align": "full"
+}

@@ -1,0 +1,17 @@
+{
+    "name": "acf/disclaimer",
+    "title": "Disclaimer",
+    "description": "Small disclaimer text",
+    "style": [
+        "file:./disclaimer.css"
+    ],
+    "icon": "media-document",
+    "keywords": [
+        "disclaimer"
+    ],
+    "acf": {
+        "mode": "edit",
+        "renderTemplate": "disclaimer.php"
+    },
+    "align": "full"
+}

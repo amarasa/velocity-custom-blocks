@@ -1,0 +1,20 @@
+{
+    "name": "acf/home-page-circular-hero",
+    "title": "Circular Hero Section",
+    "description": "A circular hero section",
+    "style": [
+        "file:./home-page-circular-hero.css"
+    ],
+    "icon": "superhero-alt",
+    "keywords": [
+        "home",
+        "circle",
+        "circular",
+        "hero"
+    ],
+    "acf": {
+        "mode": "edit",
+        "renderTemplate": "home-page-circular-hero.php"
+    },
+    "align": "full"
+}

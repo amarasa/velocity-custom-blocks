@@ -1,0 +1,13 @@
+{
+	"name": "acf/simple-justified",
+	"title": "Simple Justified",
+	"description": "A simple justified CTA section",
+	"style": ["file:./simple-justified.css"],
+	"icon": "megaphone",
+	"keywords": ["cta", "simple", "justified"],
+	"acf": {
+		"mode": "edit",
+		"renderTemplate": "simple-justified.php"
+	},
+	"align": "full"
+}

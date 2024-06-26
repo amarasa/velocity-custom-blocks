@@ -1,0 +1,33 @@
+.trusted-by-block {
+	margin: 32px 0;
+}
+
+.trusted-by-block h3 {
+	font-size: 12px !important;
+	letter-spacing: 2px !important;
+	text-transform: uppercase;
+}
+
+.trusted-by-block .trusted-by-logos {
+	display: flex;
+	justify-content: center;
+	flex-wrap: wrap;
+	align-items: center;
+	column-gap: 20%;
+}
+
+.trusted-by-block .trusted-by-logos .trusted-by-logo {
+	/* width: 30%; */
+	padding: 3%;
+}
+
+@media (max-width: 575px) {
+	.trusted-by-block .trusted-by-logos .trusted-by-logo {
+		width: 50%;
+	}
+}
+
+.trusted-by-block .trusted-by-logos .trusted-by-logo img {
+	max-height: 95px;
+	width: auto;
+}

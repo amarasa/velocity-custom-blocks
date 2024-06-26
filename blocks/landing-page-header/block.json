@@ -1,0 +1,18 @@
+{
+    "name": "acf/landing-page-header",
+    "title": "Landing Page Header",
+    "description": "A landing page header",
+    "style": [
+        "file:./landing-page-header.css"
+    ],
+    "icon": "admin-users",
+    "keywords": [
+        "header",
+        "landing page"
+    ],
+    "acf": {
+        "mode": "edit",
+        "renderTemplate": "landing-page-header.php"
+    },
+    "align": "full"
+}

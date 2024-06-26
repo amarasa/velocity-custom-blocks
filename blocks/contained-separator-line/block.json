@@ -1,0 +1,21 @@
+{
+    "name": "acf/contained-separator-line",
+    "title": "Contained Separator Line",
+    "description": "A basic line inside a container with a max width on the page",
+    "style": [
+        "file:./contained-separator-line.css"
+    ],
+    "icon": "minus",
+    "keywords": [
+        "contained",
+        "separator",
+        "line",
+        "divider",
+        "hr"
+    ],
+    "acf": {
+        "mode": "edit",
+        "renderTemplate": "contained-separator-line.php"
+    },
+    "align": "full"
+}

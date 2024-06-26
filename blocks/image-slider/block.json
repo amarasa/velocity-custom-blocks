@@ -1,0 +1,19 @@
+{
+    "name": "acf/image-slider",
+    "title": "Image Slider",
+    "description": "A image slider section",
+    "style": [
+        "file:./image-slider.css"
+    ],
+    "icon": "format-gallery",
+    "keywords": [
+        "image",
+        "slider",
+        "gallery"
+    ],
+    "acf": {
+        "mode": "edit",
+        "renderTemplate": "image-slider.php"
+    },
+    "align": "full"
+}

@@ -1,0 +1,19 @@
+{
+    "name": "acf/simple-stacked",
+    "title": "Simple Stacked",
+    "description": "A simple stacked CTA section",
+    "style": [
+        "file:./simple-stacked.css"
+    ],
+    "icon": "megaphone",
+    "keywords": [
+        "cta",
+        "simple",
+        "stacked"
+    ],
+    "acf": {
+        "mode": "edit",
+        "renderTemplate": "simple-stacked.php"
+    },
+    "align": "full"
+}

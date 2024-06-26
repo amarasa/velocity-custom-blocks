@@ -1,0 +1,22 @@
+{
+    "name": "acf/grey-recent-posts-3",
+    "title": "Grey Recent Posts 3 Section",
+    "description": "A grey recent posts 3rd variant section",
+    "style": [
+        "file:./grey-recent-posts-3.css"
+    ],
+    "icon": "format-aside",
+    "keywords": [
+        "recent",
+        "grey",
+        "posts",
+        "home",
+        "blog",
+        "gray"
+    ],
+    "acf": {
+        "mode": "edit",
+        "renderTemplate": "grey-recent-posts-3.php"
+    },
+    "align": "full"
+}

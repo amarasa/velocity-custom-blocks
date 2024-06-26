@@ -1,0 +1,19 @@
+{
+    "name": "acf/branch-reviews",
+    "title": "Branch Reviews Section",
+    "description": "A reviews section with branches",
+    "style": [
+        "file:./branch-reviews.css"
+    ],
+    "icon": "star-filled",
+    "keywords": [
+        "reviews",
+        "testimonials",
+        "branch"
+    ],
+    "acf": {
+        "mode": "edit",
+        "renderTemplate": "branch-reviews.php"
+    },
+    "align": "full"
+}

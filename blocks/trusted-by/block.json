@@ -1,0 +1,21 @@
+{
+    "name": "acf/trusted-by",
+    "title": "Trusted By",
+    "description": "A block that shows a list of trusted by logos",
+    "category": "mfg-custom-blocks",
+    "style": [
+        "file:./trusted-by.css"
+    ],
+    "icon": "format-image",
+    "keywords": [
+        "trusted by"
+    ],
+    "acf": {
+        "mode": "edit",
+        "renderTemplate": "trusted-by.php"
+    },
+    "supports": {
+        "anchor": "true"
+    },
+    "align": "full"
+}

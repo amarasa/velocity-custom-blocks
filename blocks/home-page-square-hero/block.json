@@ -1,0 +1,19 @@
+{
+    "name": "acf/home-page-square-hero",
+    "title": "Square Hero Section",
+    "description": "A square hero section",
+    "style": [
+        "file:./home-page-square-hero.css"
+    ],
+    "icon": "superhero-alt",
+    "keywords": [
+        "home",
+        "square",
+        "hero"
+    ],
+    "acf": {
+        "mode": "edit",
+        "renderTemplate": "home-page-square-hero.php"
+    },
+    "align": "full"
+}

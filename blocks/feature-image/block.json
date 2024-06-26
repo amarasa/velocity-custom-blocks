@@ -1,0 +1,19 @@
+{
+    "name": "acf/feature-image",
+    "title": "Feature Image",
+    "description": "A feature image section",
+    "style": [
+        "file:./feature-image.css"
+    ],
+    "icon": "format-image",
+    "keywords": [
+        "feature",
+        "image",
+        "hero image"
+    ],
+    "acf": {
+        "mode": "edit",
+        "renderTemplate": "feature-image.php"
+    },
+    "align": "full"
+}

@@ -1,0 +1,20 @@
+{
+    "name": "acf/get-started-circular",
+    "title": "Get Started Circular Section",
+    "description": "A get started CTA circular section",
+    "style": [
+        "file:./get-started-circular.css"
+    ],
+    "icon": "admin-network",
+    "keywords": [
+        "get started",
+        "cta",
+        "home",
+        "circular"
+    ],
+    "acf": {
+        "mode": "edit",
+        "renderTemplate": "get-started-circular.php"
+    },
+    "align": "full"
+}

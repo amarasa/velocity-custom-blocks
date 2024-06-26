@@ -1,0 +1,13 @@
+{
+	"name": "acf/image-why-us-3",
+	"title": "Image and Why Us 3 Section",
+	"description": "A section with an image and Why Us",
+	"style": ["file:./image-why-us-3.css"],
+	"icon": "editor-help",
+	"keywords": ["why", "image", "photo", "reasons", "home", "learn"],
+	"acf": {
+		"mode": "edit",
+		"renderTemplate": "image-why-us-3.php"
+	},
+	"align": "full"
+}

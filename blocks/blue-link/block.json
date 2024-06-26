@@ -1,0 +1,19 @@
+{
+    "name": "acf/blue-link",
+    "title": "Blue Link",
+    "description": "A blue link",
+    "style": [
+        "file:./blue-link.css"
+    ],
+    "icon": "links",
+    "keywords": [
+        "cta",
+        "blue link",
+        "link"
+    ],
+    "acf": {
+        "mode": "edit",
+        "renderTemplate": "blue-link.php"
+    },
+    "align": "full"
+}

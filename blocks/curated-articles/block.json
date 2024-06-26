@@ -1,0 +1,20 @@
+{
+    "name": "acf/curated-articles",
+    "title": "Curated Articles",
+    "description": "A list of curated articles",
+    "style": [
+        "file:./curated-articles.css"
+    ],
+    "icon": "welcome-write-blog",
+    "keywords": [
+        "curated",
+        "articles",
+        "blog",
+        "posts"
+    ],
+    "acf": {
+        "mode": "edit",
+        "renderTemplate": "curated-articles.php"
+    },
+    "align": "full"
+}

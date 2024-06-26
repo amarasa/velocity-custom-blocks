@@ -1,0 +1,19 @@
+{
+    "name": "acf/contained-text",
+    "title": "Contained Text",
+    "description": "A text block inside a max width container",
+    "style": [
+        "file:./contained-text.css"
+    ],
+    "icon": "media-text",
+    "keywords": [
+        "text",
+        "contained",
+        "container"
+    ],
+    "acf": {
+        "mode": "edit",
+        "renderTemplate": "contained-text.php"
+    },
+    "align": "full"
+}

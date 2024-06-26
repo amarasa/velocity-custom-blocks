@@ -1,0 +1,21 @@
+{
+    "name": "acf/full-width-get-started",
+    "title": "Full Width Get Started Section",
+    "description": "A full width Get Started CTA Section",
+    "style": [
+        "file:./full-width-get-started.css"
+    ],
+    "icon": "admin-network",
+    "keywords": [
+        "get started",
+        "cta",
+        "full",
+        "full width",
+        "home"
+    ],
+    "acf": {
+        "mode": "edit",
+        "renderTemplate": "full-width-get-started.php"
+    },
+    "align": "full"
+}

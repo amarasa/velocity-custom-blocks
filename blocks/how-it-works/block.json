@@ -1,0 +1,19 @@
+{
+    "name": "acf/how-it-works",
+    "title": "How it Works Section",
+    "description": "A how it works section",
+    "style": [
+        "file:./how-it-works.css"
+    ],
+    "icon": "admin-generic",
+    "keywords": [
+        "home",
+        "how",
+        "works"
+    ],
+    "acf": {
+        "mode": "edit",
+        "renderTemplate": "how-it-works.php"
+    },
+    "align": "full"
+}

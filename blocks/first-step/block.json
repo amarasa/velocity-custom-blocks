@@ -1,0 +1,20 @@
+{
+    "name": "acf/first-step",
+    "title": "Above Footer First Step Section",
+    "description": "A section with first steps that goes above footer usually",
+    "style": [
+        "file:./first-step.css"
+    ],
+    "icon": "admin-site",
+    "keywords": [
+        "near",
+        "footer",
+        "cta",
+        "first step"
+    ],
+    "acf": {
+        "mode": "edit",
+        "renderTemplate": "first-step.php"
+    },
+    "align": "full"
+}

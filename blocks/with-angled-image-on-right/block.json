@@ -1,0 +1,18 @@
+{
+    "name": "acf/with-angled-image-on-right",
+    "title": "With Angled Image On Right",
+    "description": "A hero section with an angled image on the right side",
+    "style": [
+        "file:./with-angled-image-on-right.css"
+    ],
+    "icon": "superhero",
+    "keywords": [
+        "hero",
+        "with angled image on right"
+    ],
+    "acf": {
+        "mode": "edit",
+        "renderTemplate": "with-angled-image-on-right.php"
+    },
+    "align": "full"
+}

@@ -1,0 +1,19 @@
+{
+    "name": "acf/progressive-form",
+    "title": "Progressive Form Block",
+    "description": "A progressive form block",
+    "style": [
+        "file:./progressive-form.css"
+    ],
+    "icon": "feedback",
+    "keywords": [
+        "form",
+        "progressive form",
+        "get started"
+    ],
+    "acf": {
+        "mode": "edit",
+        "renderTemplate": "progressive-form.php"
+    },
+    "align": "full"
+}

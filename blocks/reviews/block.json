@@ -1,0 +1,19 @@
+{
+    "name": "acf/reviews",
+    "title": "Reviews Section",
+    "description": "A reviews slider section",
+    "style": [
+        "file:./reviews.css"
+    ],
+    "icon": "star-filled",
+    "keywords": [
+        "reviews",
+        "testimonials",
+        "home"
+    ],
+    "acf": {
+        "mode": "edit",
+        "renderTemplate": "reviews.php"
+    },
+    "align": "full"
+}

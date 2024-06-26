@@ -1,0 +1,18 @@
+{
+    "name": "acf/left-column-text-right-column-image",
+    "title": "Left Column Text - Right Column Image",
+    "description": "Left column text - right column image section",
+    "style": [
+        "file:./left-column-text-right-column-image.css"
+    ],
+    "icon": "media-text",
+    "keywords": [
+        "left column text",
+        "right column image"
+    ],
+    "acf": {
+        "mode": "edit",
+        "renderTemplate": "left-column-text-right-column-image.php"
+    },
+    "align": "full"
+}
